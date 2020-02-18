@@ -5,7 +5,7 @@
 import java.util.*;
 import java.util.Map.Entry;
 
-public class CogoLab
+public class DemoTest
 {
 	public String TestDays(String S, long K) 
 	{
@@ -37,7 +37,7 @@ public class CogoLab
 	}
 	public static void main(String arg[]) 
 	{
-		CogoLab c = new CogoLab();
+		DemoTest c = new DemoTest();
 		c.TestDays("Thurs",15236100);
 	}
 }
